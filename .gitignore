@@ -3,3 +3,6 @@
 /glove
 *.pkl
 *.ini
+/.ipynb_checkpoints
+/model
+/test_experiment
