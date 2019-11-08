@@ -2,3 +2,4 @@
 /.vscode
 /glove
 *.pkl
+*.ini
