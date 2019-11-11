@@ -7,3 +7,6 @@
 /task1/model
 /task1/test_experiment
 /task1/submission_*.csv
+/task2/test_experiment
+/task2/model
+/task2/task2_submission_*.csv
